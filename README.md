@@ -1,0 +1,2 @@
+# informatika
+smena dvyx peremennix
